@@ -24,6 +24,22 @@
 ### You can join our Beta Testing WhatsApp Group by this invite link
 
 **[» Join beta test group](https://chat.whatsapp.com/Kk9FcrtGYzX1xzky4b1aCJ)**
+<details>
+<summary>𝗖𝗟𝗜𝗖𝗞 𝗧𝗢 𝗗𝗘𝗣𝗟𝗢𝗬</summary>
+
+
+[`Deploy on Railway`](https://railway.app?referralCode=jDDNQq)
+
+[`Deploy on Koyeb`](https://app.koyeb.com/)
+
+[`Deploy on Mogenius`](https://studio.mogenius.com/)
+
+[`Deploy on heroku`](https://heroku.com/deploy?template=https://github.com/DarkMakerofc/Queen-Elisa-MD-V2)
+
+[`Deploy on Replit`](https://replit.com)
+
+[`Deploy on Uffizzi`](https://www.uffizzi.com/)
+</details>
 
 ### For heroku deployers: [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
